@@ -19,6 +19,4 @@ This repository contains a collection of solved DSA problems covering core topic
 - To prepare for coding interviews and competitive programming.
 - To maintain a well-structured record of DSA questions with clean, optimized solutions.
 
-* Language Used
-
-- Java 
+* Language Used - Java 
